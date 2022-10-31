@@ -13,9 +13,9 @@
   "keywords": [
     "node-js",
     "express-js",
-    "postegres-js"
+    "postgress-js"
   ],
-  "author": "rawan",
+  "author": "Jane Doe",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Rawan-ZA/node-js/issues"
