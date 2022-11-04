@@ -1,5 +1,6 @@
 {
-  "name": "second_project",
+  "name": "node js app",
+  "author": "Jane Doe",
   "version": "1.0.0",
   "description": "second project to learn node js",
   "main": "index.js",
@@ -15,7 +16,7 @@
     "express-js",
     "postgres-js"
   ],
-  "author": "Jane Doe",
+
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Rawan-ZA/node-js/issues"
